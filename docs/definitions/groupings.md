@@ -1,0 +1,4 @@
+# Groupings
+
+- Galaxy
+- Solar System
